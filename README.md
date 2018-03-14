@@ -8,3 +8,7 @@ React-Native app
 ├── index.js
 └── screens
 ```
+
+
+npm install
+react-native run-android
