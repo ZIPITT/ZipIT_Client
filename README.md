@@ -10,5 +10,5 @@ React-Native app
 ```
 
 
-npm install
+npm install    
 react-native run-android
